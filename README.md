@@ -21,11 +21,12 @@ Apaixonado por tecnologia. Atualmente, domino HTML e CSS, estou estudando e prat
  <br>
  
 <div>
-  <a href="https://www.linkedin.com/in/gustavo-mansur-959835236/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-mansur-959835236/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:gustavomansur.guerra@gmail.com" target="_blank">
+  <a href="mailto:gustavomansur.guerra@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
 
