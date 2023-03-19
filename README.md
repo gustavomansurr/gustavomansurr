@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá ! Sou Gustavo Mansur
 
-<!--
-**gustavomansurr/gustavomansurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia. Atualmente, domino HTML e CSS, estou estudando e praticando JavaScript e React. Sempre buscando desafios e oportunidades de crescimento pessoal e profissional. Meu objetivo é contribuir para o desenvolvimento de soluções tecnológicas inovadoras.
+<br>
+<br>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavomansurr&show_icons=true&theme=radical" alt="Gustavo Mansur's GitHub stats" width="400" style="margin-right: 10px;">
+  <a href="https://github.com/gustavomansurr/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomansurr&layout=compact&theme=radical" alt="Top Langs" width="360">
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+ 
+  ##
+ <br>
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/gustavo-mansur-959835236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:gustavomansur.guerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
