@@ -1,6 +1,5 @@
-## Olá ! Sou Gustavo Mansur
+## Olá ! Eu sou Gustavo Mansur 👋
 
-Apaixonado por tecnologia. Atualmente, domino HTML e CSS, estou estudando e praticando JavaScript e React. Sempre buscando desafios e oportunidades de crescimento pessoal e profissional. Meu objetivo é contribuir para o desenvolvimento de soluções tecnológicas inovadoras.
 <br>
 <br>
 <div style="display: flex;">
